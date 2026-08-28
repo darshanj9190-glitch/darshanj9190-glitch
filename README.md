@@ -1,46 +1,24 @@
-# Hi 👋 My name is Purushottam Jadhav
+# 💫 About Me:
+Hi 👋 I am Purushottam Jadhav<br>Practioner in Machine Learning and Time Series<br>Currently, I am student.I have been learning Time Series from 3months and working on Tme Series on 2 months.I have been working on Machine Learning from 6months and learning from 9 months.I am interested in learning different Time Series Forecasting effective Techniques.<br><br>🌍  I'm based in Pune,India.<br>✉️  You can contact me at darshanj9190@gmail.com<br>🧠  I'm learning Time Series Forecasting and different its Techniques<br>🤝  I'm open to collaborating on Interesting in Time Series or Machine Learning or anyone related to that background<br>⚡  There are many problems in world that Humans alone cannot able to solve it,so we need help of Machine Learning to solve problems in world.I believe that if only Humans do work then our society's progress will be slow and if only Computers will do work then we can't able to handle that progress.Therefore,Humans and Computers should work together to make Future Great Again!
 
-## Practitioner in Machine Learning and Time Series
 
-Currently, I am a student. I have been learning **Machine Learning for 9 months** and working on Machine Learning projects for around **6 months**. I have been learning **Time Series for 3 months** and working on Time Series for around **2 months**.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/purushottam-jadhav-a43256365/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshanj9190@gmail.com) 
 
-I am interested in learning and experimenting with different **Time Series Forecasting techniques** and understanding how different approaches can be used to make better predictions.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=darshanj9190-glitch&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=darshanj9190-glitch&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=darshanj9190-glitch&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-* 🌍 I'm based in **Pune, India**
-* ✉️ You can contact me at **[darshanj9190@gmail.com](mailto:darshanj9190@gmail.com)**
-* 🧠 I'm currently learning **Time Series Forecasting and different forecasting techniques**
-* 🤝 I'm open to collaborating on **interesting Time Series, Machine Learning, or related projects**
-* ⚡ There are many problems in the world that humans alone cannot solve, so we need the help of Machine Learning to solve problems and improve the world. I believe that if only humans do the work, the progress of our society will be slow, and if only computers do the work, we may not be able to handle that progress. Therefore, **Humans and Computers should work together to make the future great.**
-
----
-
-## 🛠️ Skills
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=numpy" width="50" height="50" alt="NumPy"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pandas" width="50" height="50" alt="Pandas"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=matplotlib" width="50" height="50" alt="Matplotlib"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-learn"/>
-  </a>
-  <a href="https://xgboost.readthedocs.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=xgboost" width="50" height="50" alt="XGBoost"/>
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=darshanj9190-glitch&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=darshanj9190-glitch&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📚 Currently Learning
 
@@ -55,3 +33,4 @@ I am interested in learning and experimenting with different **Time Series Forec
 * 🧪 Model Evaluation
 * ⚙️ Feature Engineering
 
+---------------------------------------------------------------------THANK YOU-----------------------------------------------------------------------------------------------
